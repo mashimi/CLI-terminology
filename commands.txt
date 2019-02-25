@@ -3,4 +3,5 @@ My List of Linux Terminal commands
 pwd
 mkdir
 ls 
-cd
+CTRL-ALT-T ----opens terminal
+CTRL-L ----clears terminal

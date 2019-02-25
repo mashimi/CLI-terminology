@@ -6,3 +6,4 @@ ls
 CTRL-ALT-T ----opens terminal
 CTRL-L ----clears terminal
 CTRL-D ----closes terminal
+Ctrl+Alt+arrow......Move between workspaces

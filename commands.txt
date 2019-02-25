@@ -5,3 +5,5 @@ mkdir
 ls 
 CTRL-ALT-T ----opens terminal
 CTRL-L ----clears terminal
+Ctrl+Alt+D---- Show desktop
+Ctrl+Alt+arrow------- Move between workspaces

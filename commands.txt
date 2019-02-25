@@ -1,7 +1,9 @@
-My List of Linux Terminal commands
+Ctrl+Alt+D---- Show desktop
+Ctrl+Alt+arrow------- Move between workspacesMy List of Linux Terminal commands
 
 pwd
 mkdir
 ls 
+
 CTRL-ALT-T ----opens terminal
 CTRL-L ----clears terminal

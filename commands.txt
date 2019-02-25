@@ -2,3 +2,5 @@ My List of Linux Terminal commands
 
 pwd
 mkdir
+ls 
+cd

@@ -5,3 +5,4 @@ mkdir
 ls 
 CTRL-ALT-T ----opens terminal
 CTRL-L ----clears terminal
+CTRL-D ----closes terminal
